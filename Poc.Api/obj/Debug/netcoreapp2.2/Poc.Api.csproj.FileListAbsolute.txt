@@ -1,0 +1,13 @@
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\bin\Debug\netcoreapp2.2\Poc.Api.deps.json
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\bin\Debug\netcoreapp2.2\Poc.Api.runtimeconfig.json
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\bin\Debug\netcoreapp2.2\Poc.Api.runtimeconfig.dev.json
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\bin\Debug\netcoreapp2.2\Poc.Api.dll
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\obj\Debug\netcoreapp2.2\Poc.Api.csprojAssemblyReference.cache
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\obj\Debug\netcoreapp2.2\Poc.Api.RazorAssemblyInfo.cache
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\obj\Debug\netcoreapp2.2\Poc.Api.RazorAssemblyInfo.cs
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\obj\Debug\netcoreapp2.2\Poc.Api.AssemblyInfoInputs.cache
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\obj\Debug\netcoreapp2.2\Poc.Api.AssemblyInfo.cs
+C:\Users\olavo.grilenzoni\projetos\.NET-2.2-Angular-POC\Poc.Api\obj\Debug\netcoreapp2.2\Poc.Api.RazorTargetAssemblyInfo.cache
